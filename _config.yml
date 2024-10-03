@@ -18,7 +18,6 @@ author: VeroGI
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-<<<<<<< HEAD
 homepage: "home"
 navbar-links:
   About Me: "aboutme"
@@ -29,15 +28,6 @@ navbar-links:
     - Reviews Analysis with BERT: "projBERT"
   Publications: "publications"
   #Author's home: "https://deanattali.com"
-=======
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
->>>>>>> 3920be6d2e79ca15f4c28b65e8af6cbdf1a76fe1
 
 ################
 # --- Logo --- #
