@@ -25,7 +25,7 @@
 
 -González V, De Ruggiero M, Mirri M, Pedemonti B, Rossi M, Yomal A, Antún M. Health Stations Program in the Autonomous City of Buenos Aires. Rev Argent Salud Pública 2016; Mar; 7 (26): 26-32. [link](https://www.rasp.msal.gov.ar/rasp/articulos/volumen26/26-32.pdf)
 
--González V, De Ruggiero M, Antún M, Mirri M, Yomal A. Design and validation of a self-administered questionnaire to assess dietary habits in adults. Rev Esp Nutr Comunitaria 2016; 22 (1). [link](https://www.rasp.msal.gov.ar/rasp/articulos/volumen26/26-32.pdf)
+-González V, De Ruggiero M, Antún M, Mirri M, Yomal A. Design and validation of a self-administered questionnaire to assess dietary habits in adults. Rev Esp Nutr Comunitaria 2016; 22 (1). [link](https://www.renc.es/imagenes/auxiliar/files/RENC_2016_1-03._Gonzalez_VB_Dise%C3%B1o_y_validaci%C3%B3n_autotest_de_habitos_alimentarios.pdf)
 
 -González V, Antún MC, Soria MLC, Di Paola M, Eisenberg MP, Escasany M, Yomal A. Experience of the My Healthy School Program. Actualización en Nutrición 2015; 16 (2): 51-61. [link](https://www.revistasan.org.ar/pdf_files/trabajos/vol_16/num_2/RSAN_16_2_51.pdf)
 
